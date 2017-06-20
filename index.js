@@ -1,0 +1,1 @@
+require('./apptry/lorem-ipsum')
